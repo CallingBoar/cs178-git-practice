@@ -3,3 +3,5 @@ Name: Bernardo
 My favorite color is: 220,96,51
 
 My favorite animal is: Rolly pollies
+
+My favorite shape is: Hexagons
